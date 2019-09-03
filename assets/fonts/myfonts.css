@@ -1,1 +1,13 @@
+@font-face {
+    font-family: 'korinth_serial-lightitalic';
+    src: url('korinth_serial-lightitalic-webfont.woff2') format('woff2'),
+    url('korinth_serial-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
+.display-1,
+.display-2,
+.display-5 {
+    font-family: 'korinth_serial-lightitalic', display;
+}
