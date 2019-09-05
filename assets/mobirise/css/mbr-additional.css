@@ -1814,6 +1814,8 @@ body {
 }
 .cid-rzejneMwGR {
   background-image: url("../../../assets/images/home-cropped01-2000x1275.jpg");
+  background-position-y: unset!important;
+  margin-top: 70px!important;
 }
 .cid-rzejneMwGR .header6.cid-rzejneMwGR {
   background-position-y: unset!important;
