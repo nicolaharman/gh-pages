@@ -1813,7 +1813,11 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rzejneMwGR {
-  background-image: url("../../../assets/images/dsc-5972-2000x1335.jpg");
+  background-image: url("../../../assets/images/home-cropped01-2000x1275.jpg");
+}
+.cid-rzejneMwGR .header6.cid-rzejneMwGR {
+  background-position-y: unset!important;
+  margin-top: 70px!important;
 }
 .cid-rzenCc6mvU {
   padding-top: 90px;
