@@ -2464,12 +2464,15 @@ body {
 }
 .cid-rzAeugiPSD {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #ffffff;
+}
+.cid-rzAeugiPSD h1.mbr-fonts-style.display-2 {
+  font-family: 'Rubik', sans-serif;
 }
 @media (min-width: 992px) {
   .cid-rzAeugiPSD .mbr-figure {
-    padding-right: 4rem;
+    padding-right: 0rem;
   }
 }
 @media (max-width: 991px) {
@@ -2478,6 +2481,15 @@ body {
   }
 }
 .cid-rzAeugiPSD .mbr-text {
+  color: #767676;
+}
+.cid-rBbzHYvYVn {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rBbzHYvYVn .mbr-text,
+.cid-rBbzHYvYVn blockquote {
   color: #767676;
 }
 .cid-rzAdy7V0gq {
