@@ -1287,9 +1287,7 @@
         {
           "alias": false,
           "_styles": {
-            "h1.mbr-fonts-style.display-2": {
-              "font-family": "'Rubik', sans-serif"
-            },
+            "h1.mbr-fonts-style.display-2": {},
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
