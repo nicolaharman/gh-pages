@@ -9,5 +9,5 @@
 .display-1,
 .display-2,
 .display-5 {
-    font-family: 'korinth_serial-lightitalic', display;
+    font-family: 'korinth_serial-lightitalic', display!important;
 }
