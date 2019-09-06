@@ -3119,29 +3119,26 @@ body {
 .cid-rzAgkTA25H .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rzAnTSMMlH {
-  background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-rBhxVrwwum {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
-.cid-rzAnTSMMlH .image-block {
-  margin: auto;
-}
-.cid-rzAnTSMMlH .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rzAnTSMMlH figcaption {
-  position: relative;
-}
-.cid-rzAnTSMMlH figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rzAnTSMMlH .image-block {
-    width: 100% !important;
+@media (min-width: 992px) {
+  .cid-rBhxVrwwum .mbr-figure {
+    padding-right: 0rem;
   }
+}
+@media (max-width: 991px) {
+  .cid-rBhxVrwwum .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rBhxVrwwum .mbr-text {
+  color: #767676;
+}
+.cid-rBhxVrwwum .self {
+  border: 3px solid #55b4d4 !important;
 }
 .cid-rzAmyws09C {
   padding-top: 30px;
